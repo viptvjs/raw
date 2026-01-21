@@ -10,7 +10,6 @@
 
 | channel | url | list | count | isRollback |
 | ------- | --- | ---- | ----- | ---------- |
-
 | adultiptv.net | [adultiptv_chs.m3u](./adultiptv_chs.m3u ) <br> [adultiptv_chs.txt](./txt/adultiptv_chs.txt ) | [List for adultiptv.net](./list/adultiptv_chs.list ) | 25 | - |
 | adultiptv.net | [adultiptv_all.m3u](./adultiptv_all.m3u ) <br> [adultiptv_all.txt](./txt/adultiptv_all.txt ) | [List for adultiptv.net](./list/adultiptv_all.list ) | 25 | - |
 | vbskycn/iptv | [vbskycn_ipv4.m3u](./vbskycn_ipv4.m3u ) <br> [vbskycn_ipv4.txt](./txt/vbskycn_ipv4.txt ) | [List for vbskycn/iptv](./list/vbskycn_ipv4.list ) | update failed | ✅ |
@@ -61,7 +60,6 @@
 
 | epg | url | isRollback |
 | --- | --- | ---------- |
-
 | EPG接口1 | [fmml.xml](./epg/fmml.xml ) | - |
 | EPG接口2 | [51zmt.xml](./epg/51zmt.xml ) | update failed |
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | update failed |
@@ -172,3 +170,4 @@ https://gist.gitmirror.com/dimitardanailov/6acdd54ab67d5a25c0229b2fe5bbb42b/raw/
 - 官网：[viptv](https://viptv.work/about/donate.html)
 - 爱发电：[viptv](https://afdian.com/viptv)
 - PayPal: [HeFung](https://paypal.me/hefung)
+
