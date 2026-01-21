@@ -1,0 +1,33 @@
+{
+  "name": "iptv-sources",
+  "version": "6.4.20",
+  "keywords": [
+    "iptv",
+    "update"
+  ],
+  "repository": {
+    "url": "https://cnb.cool/vodtv/iptv-sources",
+    "directory": "packages/iptv-source"
+  },
+  "homepage": "https://cnb.cool/vodtv/iptv-sources",
+  "bugs": {
+    "url": "https://cnb.cool/vodtv/iptv-sources"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Mr.HeFung",
+    "email": "qq2236639958@outlook.com",
+    "url": "https://iptv-sources.vodtv.cn"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsup && node ./lib/main.js"
+  },
+  "devDependencies": {
+    "dotenv": "^16.6.1",
+    "opencc-js": "^1.0.5",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "pnpm@10.28.1+sha512.7d7dbbca9e99447b7c3bf7a73286afaaf6be99251eb9498baefa7d406892f67b879adb3a1d7e687fc4ccc1a388c7175fbaae567a26ab44d1067b54fcb0d6a316"
+}
